@@ -13,3 +13,18 @@ C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github
 C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\mad.lib\obj\Debug\net6.0\mad.lib.pdb
 C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\mad.lib\obj\Debug\net6.0\mad.lib.genruntimeconfig.cache
 C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\mad.lib\obj\Debug\net6.0\ref\mad.lib.dll
+C:\Users\carol\LazarL.mad.lib\bin\Debug\net6.0\mad.lib.exe
+C:\Users\carol\LazarL.mad.lib\bin\Debug\net6.0\mad.lib.deps.json
+C:\Users\carol\LazarL.mad.lib\bin\Debug\net6.0\mad.lib.runtimeconfig.json
+C:\Users\carol\LazarL.mad.lib\bin\Debug\net6.0\mad.lib.dll
+C:\Users\carol\LazarL.mad.lib\bin\Debug\net6.0\mad.lib.pdb
+C:\Users\carol\LazarL.mad.lib\obj\Debug\net6.0\mad.lib.csproj.AssemblyReference.cache
+C:\Users\carol\LazarL.mad.lib\obj\Debug\net6.0\mad.lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\LazarL.mad.lib\obj\Debug\net6.0\mad.lib.AssemblyInfoInputs.cache
+C:\Users\carol\LazarL.mad.lib\obj\Debug\net6.0\mad.lib.AssemblyInfo.cs
+C:\Users\carol\LazarL.mad.lib\obj\Debug\net6.0\mad.lib.csproj.CoreCompileInputs.cache
+C:\Users\carol\LazarL.mad.lib\obj\Debug\net6.0\mad.lib.dll
+C:\Users\carol\LazarL.mad.lib\obj\Debug\net6.0\refint\mad.lib.dll
+C:\Users\carol\LazarL.mad.lib\obj\Debug\net6.0\mad.lib.pdb
+C:\Users\carol\LazarL.mad.lib\obj\Debug\net6.0\mad.lib.genruntimeconfig.cache
+C:\Users\carol\LazarL.mad.lib\obj\Debug\net6.0\ref\mad.lib.dll
